@@ -1,0 +1,31 @@
+
+.form-demo {
+    /* box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px; */
+    width:auto;
+    margin:auto;
+    padding:20px;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+.form-demo .card {
+    min-width: 450px;
+
+}
+.form-demo .card form {
+    margin-top: 2rem;
+}
+.form-demo .card .field {
+    margin-bottom: 1.5rem;
+}
+@media screen and (max-width: 1024px) {
+    .form-demo .card {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 425px) {
+    .form-demo .card {
+        width: 100%;
+        min-width: 0;
+    }
+}
+            

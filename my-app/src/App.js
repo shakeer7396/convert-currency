@@ -1,12 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
-import Form from './Components/Form';
+import AllRoutes from './Components/AllRoutes';
+
 
 function App() {
   return (
     <div className="App">
-     <h1>Form Validation</h1>
-     <Form />
+
+      <AllRoutes />
     </div>
   );
 }
