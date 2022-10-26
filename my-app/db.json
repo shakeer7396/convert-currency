@@ -1,0 +1,11 @@
+{
+  "currency":[
+     {"country":"AUD","rate":1.566015},
+     {"country":"CAD","rate":1.560132},
+     {"country":"CHF","rate":1.154727},
+     {"country":"CNY","rate":7.827874},
+     {"country":"GBP","rate":0.882047},
+     {"country":"JPY","rate":132.360679}
+
+]
+}
